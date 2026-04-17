@@ -48,7 +48,7 @@
     <hr>
 
     <footer>
-        <p>&copy; 2024 Copyright oleh [Nama Anda]</p>
+        <p>&copy; 2024 Copyright oleh Adhie Cyto</p>
     </footer>
 
 </body>
